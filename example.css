@@ -55,6 +55,7 @@ nav ul li {
 }
 
 footer {
+  grid-area: footer;
   color: #2d2f77;
   text-align: center;
 }
